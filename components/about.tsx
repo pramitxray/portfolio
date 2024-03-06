@@ -26,9 +26,9 @@ export default function About() {
       <p>
         My core stack is{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          React, Next.js, Node.js, and MongoDB.
         </span>
-        . I am also familiar with NLP and RPA. I am always looking to
+        I am also familiar with NLP and RPA. I am always looking to
         learn new technologies. Feel free to connect with me if you share {" "}
         <span className="font-semibold">similar interests or have any exciting opportunities</span> to collaborate.
         {"\n "}
